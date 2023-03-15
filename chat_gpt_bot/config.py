@@ -1,7 +1,7 @@
 import os
 
 
-BOT_TOKEN = os.getenv('BOT_TOKEN')
+BOT_TOKEN = os.getenv('6247953312:AAFV_mYUJEzr3vd5qQtRfJCkQU6g54NxmhE')
 
 RAILWAY_APP_NAME = os.getenv('RAILWAY_APP_NAME')
 
