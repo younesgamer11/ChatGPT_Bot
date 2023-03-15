@@ -7,7 +7,7 @@ from chat_gpt_bot.config import (WORKS_CHATS, MODEL, TEMPERATURE, MAX_TOKENS,
 from chat_gpt_bot.dispatcher import dp
 
 
-openai.api_key = AI_KEY
+openai.api_key = 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
 
 
 def get_ai_answer(question):
